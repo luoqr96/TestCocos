@@ -1,0 +1,17 @@
+<Solution>
+  <PropertyGroup Name="Test2" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Images">
+          <Image Name="menu.jpg" />
+          <Image Name="StartBottom.png" />
+          <Image Name="StartBottomPushed.png" />
+        </Folder>
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="WelcomeScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
